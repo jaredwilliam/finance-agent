@@ -8,7 +8,7 @@ load_dotenv()
 
 CLIENT = Anthropic()
 MODEL = "claude-sonnet-4-20250514"
-CATEGORIES ='docs/transaction_categories.md'
+CATEGORIES ='docs/transaction-categories.md'
 PROMPT_TEMPLATE = 'docs/prompt-template.md'
 TRANSACTIONS_CSV = 'data/transactions.csv'
 VALID_PAYMENT_METHODS = ['Credit Card', 'Debit Card', 'Cash']
