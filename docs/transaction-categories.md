@@ -1,0 +1,69 @@
+---
+date: 2025-08-10
+Area: "[[Finances]]"
+---
+
+- Income
+	- Paychecks
+	- Interest
+	- Other Income
+- Expenses
+	- Gifts and Donations
+		- Gifts
+		- Other
+	- Auto and Transport
+		- Auto Payment
+		- Gas
+		- Auto Maintenance
+		- Parking and Tolls
+		- Ride Share
+	- Housing
+		- Mortgage
+		- Home Improvement
+		- Home Maintenance
+	- Bills and Utilities
+		- Water
+		- Gas
+		- Electric
+		- Internet
+		- Phone
+	- Food and Dining
+		- Groceries
+		- Restaurants and Bars
+		- Coffee Shops
+	- Travel and Lifestyle
+		- Travel and Vacation
+		- Entertainment and Recreation
+		- Personal
+		- Pets
+		- Fun Money
+	- Shopping
+		- Clothing
+		- Furniture and Housewares
+		- Electronics
+	- Children
+		- Child Care
+		- Child Activities
+	- Education
+		- Student Loans
+		- Education
+	- Health and Wellness
+		- Medical
+		- Dentist
+		- Fitness
+	- Financial
+		- Loan Repayment
+		- Financial and Legal Services
+		- Financial Fees
+		- Cash & ATM
+		- Insurance
+		- Taxes
+	- Other
+		- Uncategorized
+		- Check
+		- Miscellaneous
+- Transfers
+	- Transfers
+		- Transfer
+		- Credit Card Payment
+		- Balance Adjustments
